@@ -1,0 +1,7 @@
+# Archivos generados en ejecución (no versionar)
+puntuaciones.json
+dibujos/
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
